@@ -66,3 +66,5 @@ The API provides several RESTful endpoints to interact with the platform's core 
 
 # Here is the link of postman api documentation 
 https://documenter.getpostman.com/view/39216507/2sAYQUptZa
+# This is the link of the docmentation handritten of all tasks of google drive 
+https://drive.google.com/file/d/1XgGGwX5Lpi3JtxS2dYMt8U1IZFjrOBuJ/view
